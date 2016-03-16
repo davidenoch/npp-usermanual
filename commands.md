@@ -6,7 +6,7 @@ Commands allow you to execute applications from Notepad++, for example to open y
 
 To run a new command:
 
-Sselect Run->Run.... A dialog will pop up asking for the path to the program and possible any command line parameters. You can use the browse button to search for your program. The drop down list provides recently run programs. The command line arguments can also be based on the status of the current document, and are always enclosed in $(...), where … can be:
+Select Run->Run.... A dialog will pop up asking for the path to the program and possible any command line parameters. You can use the browse button to search for your program. The drop down list provides recently run programs. The command line arguments can also be based on the status of the current document, and are always enclosed in $(...), where … can be:
 
 FULL_CURRENT_PATH
 the fully qualified path to the current document.
