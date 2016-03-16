@@ -1,4 +1,4 @@
-A document has certain characteristics in the way its stored on your hard-disk. These following subjects control some of those aspects.
+A document has certain characteristics in the way it's stored on your hard-disk. These following subjects control some of those aspects.
 
 Note: both the default Newline format and the encoding of new files can be set, see New document settings for more details.
 
